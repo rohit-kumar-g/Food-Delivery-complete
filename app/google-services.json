@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1088167006884",
+    "firebase_url": "https://food-del-train-default-rtdb.firebaseio.com",
+    "project_id": "food-del-train",
+    "storage_bucket": "food-del-train.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088167006884:android:2a30cdad6595c0364c8c31",
+        "android_client_info": {
+          "package_name": "com.example.fooddeliverfortrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088167006884-mdjnehbtpe7qnvtp0u4i7jsc2cea9bkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLhYTepeT5iBy8pTfCUfEBwgtHwA8BQ5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088167006884-mdjnehbtpe7qnvtp0u4i7jsc2cea9bkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088167006884:android:86586719d03269374c8c31",
+        "android_client_info": {
+          "package_name": "radhee.krishna.loginmauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088167006884-mdjnehbtpe7qnvtp0u4i7jsc2cea9bkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLhYTepeT5iBy8pTfCUfEBwgtHwA8BQ5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088167006884-mdjnehbtpe7qnvtp0u4i7jsc2cea9bkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
